@@ -10,7 +10,7 @@ namespace AceLeeTeamProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("this is a hello world");
+            Console.WriteLine("This is a hello world");
         }
     }
 }
